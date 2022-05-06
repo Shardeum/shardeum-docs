@@ -49,3 +49,4 @@ sidebar_position: 2
 
 - Shardeum Mainnet Launch
 - SHM Issued
+- Public Sales
