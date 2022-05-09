@@ -89,10 +89,6 @@ const config = {
                 label: 'Blog',
                 to: 'https://shardeum.org/blog',
               },
-              {
-                label: 'Languages',
-                to: 'https://shardeum.org/languages',
-              },
             ],
           },
           {
