@@ -91,7 +91,7 @@ const config = {
               },
               {
                 label: 'Languages',
-                to: 'https://shardeum.org/languages',
+                to: 'https://docs.shardeum.org/community#global-discord-channels',
               },
             ],
           },
