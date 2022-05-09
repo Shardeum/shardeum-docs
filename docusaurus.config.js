@@ -117,7 +117,7 @@ const config = {
             items: [
               {
                 label: 'Litepaper',
-                to: 'https://shardeum.org/wp-content/uploads/2022/03/Shardeum-Litepaper.pdf',
+                to: 'https://shardeum.org/Shardeum-Litepaper.pdf',
               },
               {
                 label: 'FAQs',
