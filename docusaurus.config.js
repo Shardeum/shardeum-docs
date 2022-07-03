@@ -170,6 +170,10 @@ const config = {
                 to: 'mailto:hi@shardeum.org',
               },
               {
+                label: 'Investment Purpose',
+                to: 'mailto:invest@shardeum.org',
+              },
+              {
                 label: 'GitHub',
                 to: 'https://github.com/shardeum',
               },
